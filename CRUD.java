@@ -1,8 +1,4 @@
-/*
-Mini Project
-Yeo Ewe Wen 20DDT20F1016
-Ngu Ming Henn 20DDT20F1006
- */
+
 package projectipt;
 
 import java.awt.*;
